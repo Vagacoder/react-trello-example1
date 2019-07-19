@@ -6,5 +6,5 @@ This is a simple example for react-trello (https://github.com/rcdexta/react-trel
 
 ### How to use
 1. clone
-2. in folder, `npm install`
-3. in folder, `npm start`
+2. in folder, `$ npm install --save react-trello`
+3. in folder, `$ npm start`
